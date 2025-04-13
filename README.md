@@ -1,6 +1,6 @@
 # OpenComet v2.0
 
-OpenComet is a powerful Fiji plugin for automated single cell electrtophoresis (comet assay) image analysis. This tool helps researchers analyze DNA damage in cells through the comet assay technique by automatically detecting and measuring comets in microscopy images.
+OpenComet is a powerful Fiji plugin for automated single cell electrophoresis (comet assay) image analysis. This tool helps researchers analyze DNA damage in cells through the comet assay technique by automatically detecting and measuring comets in microscopy images.
 
 ## Overview
 
